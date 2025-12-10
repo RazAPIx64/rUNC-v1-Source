@@ -2,6 +2,8 @@
 
 --[[
   source awaited?
+
+  THIS SOURCE IS FROM 5 MONTHS AGO DO NOT TALK TO ME ABOUT IT
 ]]
 
 local getgenv = getgenv or function() return getfenv(0) end
